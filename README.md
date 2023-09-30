@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithravi04&label=Profile%20views&color=0e75b6&style=flat" alt="ajithravi04" /> </p>
 
-- 👨‍💻 My portfolio: [https://ajithravi04.github.io/portfolio/](https://ajithravi04.github.io/portfolio/)
+- 👨‍💻 My portfolio: [https://ajithportfolio-taffy.netlify.app/](https://ajithportfolio-taffy.netlify.app/)
 
 - 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!😉**
 
