@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio: [https://ajithravi04.github.io/portfolio/](https://ajithravi04.github.io/portfolio/)
 
-- 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!**
+- 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!😉**
 
 - 📫 How to reach me **ajithjsx@gmail.com**
 
